@@ -1,0 +1,122 @@
+MIT License
+
+Copyright (c) 2025 Leucine Technologies Private Limited
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional License Information
+
+### Third-Party Dependencies
+
+This software includes third-party dependencies that are licensed under their respective licenses:
+
+#### Frontend Dependencies
+- **React** - MIT License
+- **TypeScript** - Apache License 2.0
+- **Material-UI** - MIT License
+- **Redux** - MIT License
+- **React Router** - MIT License
+- **Axios** - MIT License
+- **React Hook Form** - MIT License
+- **React PDF** - MIT License
+- **Webpack** - MIT License
+- **Babel** - MIT License
+- **ESLint** - MIT License
+- **Jest** - MIT License
+- **React Testing Library** - MIT License
+
+#### Assets and Resources
+- **Inter Font** - SIL Open Font License 1.1
+- **Material Design Icons** - Apache License 2.0
+- **Application Icons** - Proprietary to Leucine Technologies
+- **User Interface Design** - Proprietary to Leucine Technologies
+
+### Commercial Use
+
+While this software is available under the MIT License, commercial use may be subject to additional terms and conditions. For commercial licensing, enterprise support, or custom development, please contact:
+
+**Leucine Technologies Private Limited**
+Email: licensing@leucinetech.com
+Website: https://www.leucinetech.com
+
+### Trademark Notice
+
+"Streem", "Digital Work Instructions", and associated logos are trademarks of Leucine Technologies Private Limited. Use of these trademarks is subject to Leucine Technologies' trademark policy.
+
+### Browser Compatibility
+
+This software is designed to work with modern web browsers. Supported browsers include:
+- Chrome 88+
+- Firefox 85+
+- Safari 14+
+- Edge 88+
+
+Legacy browser support may require additional polyfills and is not guaranteed.
+
+### Accessibility Compliance
+
+This software aims to comply with WCAG 2.1 Level AA accessibility standards. For accessibility support or to report accessibility issues, please contact our accessibility team.
+
+### Progressive Web App (PWA)
+
+This application includes Progressive Web App features that may cache data locally on user devices. Users should be aware of local storage implications and data privacy considerations.
+
+### Data Privacy
+
+This frontend application may process personal and sensitive data. Users and deployers are responsible for:
+- Implementing appropriate data protection measures
+- Ensuring compliance with applicable privacy laws (GDPR, CCPA, etc.)
+- Securing data transmission and storage
+- Providing appropriate privacy notices to end users
+
+### Export Control
+
+This software may be subject to export control laws and regulations. Users are responsible for ensuring compliance with applicable export control laws when using, distributing, or modifying this software.
+
+### Disclaimer
+
+This software is provided for educational and development purposes. While efforts have been made to ensure reliability and security, Leucine Technologies makes no warranties regarding the software's fitness for production use without proper testing and validation.
+
+For production deployments, please ensure:
+- Proper security configuration and HTTPS
+- Content Security Policy (CSP) implementation
+- Cross-site scripting (XSS) protection
+- Performance optimization and monitoring
+- Accessibility testing and compliance
+- Cross-browser compatibility testing
+
+### Support and Warranty
+
+This open-source version is provided without commercial support or warranty. For supported versions with enterprise-grade SLA, training, and professional services, please contact Leucine Technologies.
+
+### Contributing
+
+By contributing to this project, you agree that your contributions will be licensed under the same MIT License. See CONTRIBUTING.md for detailed contribution guidelines.
+
+### Font Licensing
+
+This application uses the Inter font family, which is licensed under the SIL Open Font License 1.1. The license is included in the font files and allows for both personal and commercial use.
+
+For PDF generation compatibility, .ttf font files are included. Please ensure compliance with font licensing terms when distributing the application.
+
+---
+
+Last Updated: September 22, 2025
